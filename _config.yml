@@ -1,1 +1,8 @@
 theme: jekyll-theme-minimal
+
+title: Jaesuk Hwang
+description: Jaesuk Hwang's personal thoughts
+show_downloads: false
+
+github:
+    is_user_page: true
