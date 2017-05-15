@@ -1,8 +1,9 @@
 theme: jekyll-theme-minimal
 
-title: Jaesuk Hwang
-description: Jaesuk Hwang's personal thoughts
-show_downloads: false
+title: Jaesuk's miscellaneous
+description: Son, Brother, Husband, Father, Friend, and Software engineer.
 
 github:
-    is_user_page: true
+    owner_name: Jaesuk
+
+google_analytics: UA-99083639-1
