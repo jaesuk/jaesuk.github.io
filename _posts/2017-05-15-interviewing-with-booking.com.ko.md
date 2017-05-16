@@ -6,7 +6,7 @@ permalink: /booking.com-취업기/
 comments: true
 ---
 
-# Booking.com 취업기
+# [Booking.com 취업기](/booking.com-취업기/)
 
 이 글은 2017년 1월부터 2월까지 [Booking.com](https://www.booking.com)의 [소프트웨어 개발자](https://workingatbooking.com/vacancies/software-developer-2/)로 취업하기까지의 이야기입니다.
 
