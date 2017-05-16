@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: post
 title: Booking.com 취업기
 namespace: interviewing-with-booking.com
 permalink: /booking.com-취업기/
+comments: true
 ---
 
 # Booking.com 취업기
