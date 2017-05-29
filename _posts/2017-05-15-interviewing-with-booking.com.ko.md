@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Booking.com 취업기
+description: 이 글을 2017년 1월부터 2월까지 Booking.com의 소프트웨어 개발자로 취업하기까지의 이야기입니다.
 namespace: interviewing-with-booking.com
 permalink: /booking.com-취업기/
 comments: true
+lang: ko_KR
 ---
 
 # [Booking.com 취업기](/booking.com-취업기/)

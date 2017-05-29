@@ -2,8 +2,22 @@ theme: jekyll-theme-minimal
 
 title: Jaesuk's miscellaneous
 description: Son, Brother, Husband, Father, Friend, and Software engineer.
+author: Jaesuk Hwang
 
 github:
     owner_name: Jaesuk
 
 google_analytics: UA-99083639-1
+
+social:
+  name: Jaesuk Hwang
+  links:
+    - https://github.com/jaesuk
+    - https://keybase.io/jaesuk
+    - https://twitter.com/jaesukhwang
+    - https://www.facebook.com/jaesuk.hwang
+    - http://google.com/+JaesukHwang
+    - https://www.linkedin.com/in/jaesuk-hwang-07264374
+
+gems:
+    - jekyll-seo-tag
